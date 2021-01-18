@@ -4,7 +4,10 @@
 
 如果该程序对你有帮助😎😎😎，希望给个⭐**star**⭐喔。😘😘😘😍🥰🎉🎈🎃
 
-> github 地址： [https://github.com/moshang-xc/lottery](https://github.com/moshang-xc/lottery)
+> Fork自： [https://github.com/moshang-xc/lottery](https://github.com/moshang-xc/lottery)
+
+为了配合主持稿，新增了手动抽奖的功能。
+
 
 ## 技术
 
@@ -22,21 +25,12 @@
 4. 每次抽取的奖品数目可配置🎈
 5. 抽取完所有奖品后还可以继续抽取特别奖(例如：现在抽取红包，追加的奖品等)，此时默认一次抽取一个🧨
 
-## 预览
-
-![lottery.gif](https://user-gold-cdn.xitu.io/2019/12/21/16f28430af77f511?imageslim)
-
-![f.jpg](https://user-gold-cdn.xitu.io/2019/12/21/16f28467c001de03?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
-
-![s.jpg](https://user-gold-cdn.xitu.io/2019/12/21/16f28469503664c1?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
-
-![t.jpg](https://user-gold-cdn.xitu.io/2019/12/21/16f2846b50983782?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
 ## 安装
 
-```
-git clone https://github.com/moshang-xc/lottery.git
+先Git clone到本地
 
+```
 cd lottery
 
 # 服务端插件安装
@@ -145,7 +139,7 @@ const EACH_COUNT = [1, 1, 5];
 该标识用于显示在抽奖卡片上。
 
 ```js
-const COMPANY = "MoShang";
+const COMPANY = "Dingguagua";
 ```
 ## License
 MIT
